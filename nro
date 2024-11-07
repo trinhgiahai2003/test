@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Trunks - S1",
+        "Address": "nro.nrotrunks.me",
+        "Port": 14445,
+        "Language": 0
+    },
+    {
+        "Name": "Trunks - S2",
+        "Address": "nro.nrotrunks.me",
+        "Port": 14446,
+        "Language": 0
+    },
+    {
+        "Name": "Trunks - S3",
+        "Address": "nro.nrotrunks.me",
+        "Port": 14447,
+        "Language": 0
+    } 
+]
